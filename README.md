@@ -1,7 +1,7 @@
 # SCRUM
 [![Build Status][travis-image]][travis-url]
 
-> SCRUM Fundamentals by SCRUMStudy
+> SCRUM Fundamentals con conceptos de SCRUMStudy
 
 [GitHub page](https://lenin-anzen.github.io/scrum/)
 
