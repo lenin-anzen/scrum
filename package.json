@@ -1,0 +1,26 @@
+{
+  "name": "scrum",
+  "version": "1.0.0",
+  "description": "SCRUM Fundamentals by SCRUMStudy",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "eslint . --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lenin-anzen/scrum.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lenin-anzen/scrum/issues"
+  },
+  "homepage": "https://github.com/lenin-anzen/scrum#readme",
+  "devDependencies": {
+    "eslint": "^4.2.0"
+  }
+}
